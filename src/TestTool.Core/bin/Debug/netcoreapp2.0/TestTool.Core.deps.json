@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "TestTool.Core/1.0.0": {
+        "dependencies": {
+          "Test.Framework": "1.0.0"
+        },
+        "runtime": {
+          "TestTool.Core.dll": {}
+        }
+      },
+      "Test.Framework/1.0.0": {
+        "runtime": {
+          "Test.Framework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestTool.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Test.Framework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

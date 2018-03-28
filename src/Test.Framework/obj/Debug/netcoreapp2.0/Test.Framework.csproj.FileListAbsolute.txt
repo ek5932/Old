@@ -1,0 +1,9 @@
+C:\Users\Paul\Documents\Dev\TestTool\Test.Framework\bin\Debug\netcoreapp2.0\Test.Framework.deps.json
+C:\Users\Paul\Documents\Dev\TestTool\Test.Framework\bin\Debug\netcoreapp2.0\Test.Framework.dll
+C:\Users\Paul\Documents\Dev\TestTool\Test.Framework\bin\Debug\netcoreapp2.0\Test.Framework.pdb
+C:\Users\Paul\Documents\Dev\TestTool\Test.Framework\obj\Debug\netcoreapp2.0\Test.Framework.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Documents\Dev\TestTool\Test.Framework\obj\Debug\netcoreapp2.0\Test.Framework.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Documents\Dev\TestTool\Test.Framework\obj\Debug\netcoreapp2.0\Test.Framework.AssemblyInfoInputs.cache
+C:\Users\Paul\Documents\Dev\TestTool\Test.Framework\obj\Debug\netcoreapp2.0\Test.Framework.AssemblyInfo.cs
+C:\Users\Paul\Documents\Dev\TestTool\Test.Framework\obj\Debug\netcoreapp2.0\Test.Framework.dll
+C:\Users\Paul\Documents\Dev\TestTool\Test.Framework\obj\Debug\netcoreapp2.0\Test.Framework.pdb

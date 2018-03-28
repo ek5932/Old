@@ -1,0 +1,11 @@
+C:\Users\Paul\Documents\Dev\TestTool\TestTool.Core\bin\Debug\netcoreapp2.0\TestTool.Core.deps.json
+C:\Users\Paul\Documents\Dev\TestTool\TestTool.Core\bin\Debug\netcoreapp2.0\TestTool.Core.dll
+C:\Users\Paul\Documents\Dev\TestTool\TestTool.Core\bin\Debug\netcoreapp2.0\TestTool.Core.pdb
+C:\Users\Paul\Documents\Dev\TestTool\TestTool.Core\bin\Debug\netcoreapp2.0\Test.Framework.dll
+C:\Users\Paul\Documents\Dev\TestTool\TestTool.Core\bin\Debug\netcoreapp2.0\Test.Framework.pdb
+C:\Users\Paul\Documents\Dev\TestTool\TestTool.Core\obj\Debug\netcoreapp2.0\TestTool.Core.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Documents\Dev\TestTool\TestTool.Core\obj\Debug\netcoreapp2.0\TestTool.Core.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Documents\Dev\TestTool\TestTool.Core\obj\Debug\netcoreapp2.0\TestTool.Core.AssemblyInfoInputs.cache
+C:\Users\Paul\Documents\Dev\TestTool\TestTool.Core\obj\Debug\netcoreapp2.0\TestTool.Core.AssemblyInfo.cs
+C:\Users\Paul\Documents\Dev\TestTool\TestTool.Core\obj\Debug\netcoreapp2.0\TestTool.Core.dll
+C:\Users\Paul\Documents\Dev\TestTool\TestTool.Core\obj\Debug\netcoreapp2.0\TestTool.Core.pdb

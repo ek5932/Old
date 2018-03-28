@@ -1,0 +1,13 @@
+C:\Users\Paul\Documents\Dev\TestTool\TestTool.Parser.Excel\bin\Debug\netcoreapp2.0\TestTool.Parser.Excel.deps.json
+C:\Users\Paul\Documents\Dev\TestTool\TestTool.Parser.Excel\bin\Debug\netcoreapp2.0\TestTool.Parser.Excel.dll
+C:\Users\Paul\Documents\Dev\TestTool\TestTool.Parser.Excel\bin\Debug\netcoreapp2.0\TestTool.Parser.Excel.pdb
+C:\Users\Paul\Documents\Dev\TestTool\TestTool.Parser.Excel\bin\Debug\netcoreapp2.0\Test.Framework.dll
+C:\Users\Paul\Documents\Dev\TestTool\TestTool.Parser.Excel\bin\Debug\netcoreapp2.0\TestTool.Core.dll
+C:\Users\Paul\Documents\Dev\TestTool\TestTool.Parser.Excel\bin\Debug\netcoreapp2.0\TestTool.Core.pdb
+C:\Users\Paul\Documents\Dev\TestTool\TestTool.Parser.Excel\bin\Debug\netcoreapp2.0\Test.Framework.pdb
+C:\Users\Paul\Documents\Dev\TestTool\TestTool.Parser.Excel\obj\Debug\netcoreapp2.0\TestTool.Parser.Excel.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Documents\Dev\TestTool\TestTool.Parser.Excel\obj\Debug\netcoreapp2.0\TestTool.Parser.Excel.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Documents\Dev\TestTool\TestTool.Parser.Excel\obj\Debug\netcoreapp2.0\TestTool.Parser.Excel.AssemblyInfoInputs.cache
+C:\Users\Paul\Documents\Dev\TestTool\TestTool.Parser.Excel\obj\Debug\netcoreapp2.0\TestTool.Parser.Excel.AssemblyInfo.cs
+C:\Users\Paul\Documents\Dev\TestTool\TestTool.Parser.Excel\obj\Debug\netcoreapp2.0\TestTool.Parser.Excel.dll
+C:\Users\Paul\Documents\Dev\TestTool\TestTool.Parser.Excel\obj\Debug\netcoreapp2.0\TestTool.Parser.Excel.pdb

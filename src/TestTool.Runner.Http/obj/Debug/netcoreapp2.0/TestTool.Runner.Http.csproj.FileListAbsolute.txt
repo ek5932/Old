@@ -1,0 +1,13 @@
+C:\Users\Paul\Documents\Dev\TestTool\TestTool.Runner.Http\obj\Debug\netcoreapp2.0\TestTool.Runner.Http.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Documents\Dev\TestTool\TestTool.Runner.Http\obj\Debug\netcoreapp2.0\TestTool.Runner.Http.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Documents\Dev\TestTool\TestTool.Runner.Http\obj\Debug\netcoreapp2.0\TestTool.Runner.Http.AssemblyInfoInputs.cache
+C:\Users\Paul\Documents\Dev\TestTool\TestTool.Runner.Http\obj\Debug\netcoreapp2.0\TestTool.Runner.Http.AssemblyInfo.cs
+C:\Users\Paul\Documents\Dev\TestTool\TestTool.Runner.Http\bin\Debug\netcoreapp2.0\TestTool.Runner.Http.deps.json
+C:\Users\Paul\Documents\Dev\TestTool\TestTool.Runner.Http\bin\Debug\netcoreapp2.0\TestTool.Runner.Http.dll
+C:\Users\Paul\Documents\Dev\TestTool\TestTool.Runner.Http\bin\Debug\netcoreapp2.0\TestTool.Runner.Http.pdb
+C:\Users\Paul\Documents\Dev\TestTool\TestTool.Runner.Http\bin\Debug\netcoreapp2.0\Test.Framework.dll
+C:\Users\Paul\Documents\Dev\TestTool\TestTool.Runner.Http\bin\Debug\netcoreapp2.0\TestTool.Core.dll
+C:\Users\Paul\Documents\Dev\TestTool\TestTool.Runner.Http\bin\Debug\netcoreapp2.0\Test.Framework.pdb
+C:\Users\Paul\Documents\Dev\TestTool\TestTool.Runner.Http\bin\Debug\netcoreapp2.0\TestTool.Core.pdb
+C:\Users\Paul\Documents\Dev\TestTool\TestTool.Runner.Http\obj\Debug\netcoreapp2.0\TestTool.Runner.Http.dll
+C:\Users\Paul\Documents\Dev\TestTool\TestTool.Runner.Http\obj\Debug\netcoreapp2.0\TestTool.Runner.Http.pdb
